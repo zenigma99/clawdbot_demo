@@ -10,7 +10,6 @@
 - 🎨 Generare immagini
 - ...e molto altro!
 
-Non è un semplice chatbot: è un **assistente autonomo** che può eseguire azioni reali sul sistema.
 
 ## 📋 Requisiti
 
