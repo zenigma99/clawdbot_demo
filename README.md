@@ -1,6 +1,16 @@
-# 🤖 Moltbot Setup - Guida Completa
+# 🤖 Moltbot Setup - Agente AI Personale
 
-Bot AI personale che risponde su Telegram usando GPT-4o (o altri modelli).
+**Moltbot è un agente AI completo che può:**
+- 💬 Chattare su Telegram (e altri canali)
+- 💻 Eseguire codice e script
+- 📁 Creare, modificare e analizzare file
+- 🌐 Navigare il web e fare ricerche
+- 🔧 Automatizzare task ripetitivi
+- 📊 Analizzare dati e creare report
+- 🎨 Generare immagini
+- ...e molto altro!
+
+Non è un semplice chatbot: è un **assistente autonomo** che può eseguire azioni reali sul sistema.
 
 ## 📋 Requisiti
 
@@ -98,6 +108,54 @@ Dovresti vedere:
    ```
 6. Invia di nuovo `Ciao!`
 7. **Il bot dovrebbe rispondere!** 🎉
+
+---
+
+## 🎯 Cosa Può Fare Moltbot
+
+Moltbot non è un semplice chatbot: è un **agente autonomo** con accesso a strumenti reali.
+
+### 💻 Coding & Sviluppo
+```
+Tu: "Crea uno script Python che analizza questo CSV e genera un grafico"
+Bot: [crea file.py, lo esegue, genera grafico.png]
+```
+
+### 📁 Gestione File
+```
+Tu: "Leggi tutti i PDF in questa cartella e fammi un riassunto"
+Bot: [legge i file, analizza, crea summary.md]
+```
+
+### 🌐 Web & Ricerca
+```
+Tu: "Cerca le ultime notizie su AI e scrivimi un report"
+Bot: [usa web search, analizza risultati, crea report.md]
+```
+
+### 🔧 Automazione
+```
+Tu: "Ogni mattina alle 9, controllami le email e fammi un riassunto"
+Bot: [crea cron job, monitora, invia summary]
+```
+
+### 📊 Analisi Dati
+```
+Tu: "Analizza questo Excel e trovami le anomalie"
+Bot: [legge Excel, analizza, genera insights + grafici]
+```
+
+### 🎨 Creatività
+```
+Tu: "Genera un'immagine di un robot che programma"
+Bot: [chiama API immagini, genera, invia]
+```
+
+### 🤝 Multi-Agent
+```
+Tu: "Crea un sub-agent che mi monitora il server"
+Bot: [spawna nuovo agent isolato, configura monitoring]
+```
 
 ---
 
