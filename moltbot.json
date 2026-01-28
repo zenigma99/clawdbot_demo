@@ -1,0 +1,27 @@
+{
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "openai/gpt-4o"
+      },
+      "userTimezone": "Europe/Rome",
+      "envelopeTimezone": "user"
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing"
+    }
+  },
+  "gateway": {
+    "mode": "local"
+  },
+  "plugins": {
+    "entries": {
+      "telegram": {
+        "enabled": true
+      }
+    }
+  }
+}
